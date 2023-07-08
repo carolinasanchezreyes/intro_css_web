@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {    
+    background-color: blueviolet;
+}
+header {
+    background-color: rgba(64, 75, 1, 0.719);
+}
+header > nav {
+    padding: 40px;
+}
+article{
+    margin: 50px;
+    padding: 20px;
+    width: fit-content;
+    box-shadow: 10px 10px 20px rgba(164, 184, 117, 0.731)    
+}
+p {
+    background-color: rgba(164, 184, 117, 0.731)
+    border-radius 10PX;
+}
+.card_1 {
+    background-color: rgba(164, 184, 117, 0.731);
+}
+.card_2 {
+    background-color: rgba(164, 184, 117, 0.731);
+}
+.card_3 {
+    background-color: rgba(164, 184, 117, 0.731);
+}
+
+
+
+
+
